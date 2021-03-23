@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+
+}
+
+.title {
+    padding-top: 100px;
+    color: coral;
+    text-align: center;
+}
+
+.subtitle{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.btn{
+    color: crimson;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.btn:hover {
+    color: #121212;
+    position: relative;
+    top: 30%;
+    right: 30%;
+}
